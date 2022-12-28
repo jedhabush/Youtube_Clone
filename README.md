@@ -17,6 +17,7 @@ This application is a YouTube clone. it utilizes [Rapid API](https://rapidapi.co
 1- The ability to search for a video similar to YouTube. <br/>
 2- The ability to play any video.  <br/>
 3- The ability to find any YouTube channel and access that channel to see the related videos. <br/>
+4- The app is fully responsive to multiple devices.
 
 # Tech Stack
 - React <br/>
