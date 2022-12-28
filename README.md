@@ -13,7 +13,7 @@ https://youtube-clone-v3-rapid-api.netlify.app
 # Description
 This application is a YouTube clone. it utilizes [Rapid API](https://rapidapi.com/hub) to fetch YouTube data. Also, I incorporated [Material UI](https://mui.com/) into this project and the reason for that is **1)** I wanted to try and learn a different styling technology  **2)** Material UI is easy to use and made my job easier.
 
-**Features** <br/>
+**Features:** <br/>
 1- The ability to search for a video similar to YouTube. <br/>
 2- The ability to play any video.  <br/>
 3- The ability to find any YouTube channel and access that channel to see the related videos. <br/>
