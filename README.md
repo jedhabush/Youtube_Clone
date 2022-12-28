@@ -22,7 +22,7 @@ This application is a YouTube clone. it utilizes [Rapid API](https://rapidapi.co
 # Tech Stack
 - React <br/>
 - Rapid API: This website contains tons of useful APIs from sports APIs to scientific ApIs you name it, it is there. <br/>
-- Material UI: Very flexible library for styling. One of the cool features that I loved about this library is that you can set styles for different devices using easy built in tags and useful pre-styled built in components to use them anywhere in your app.
+- Material UI: Very flexible library for styling and designing the user interface. One of the cool features that I loved about this library is that you can set styles for different devices using easy built in tags and useful pre-styled built in components to use them anywhere in your app.
 
 
 
