@@ -4,12 +4,24 @@
 https://youtube-clone-v3-rapid-api.netlify.app
 
 # Image of application
+![alt text](https://github.com/jedhabush/Youtube_Clone/blob/main/youtube-frontpages.png)
+
+![alt text](https://github.com/jedhabush/Youtube_Clone/blob/main/youtube-channel.png)
+
+![alt text](https://github.com/jedhabush/Youtube_Clone/blob/main/youtube-videoPlayers.png)
 
 # Description
+This application is a YouTube clone. it utilizes [Rapid API](https://rapidapi.com/hub) to fetch YouTube data. Also, I incorporated [Material UI](https://mui.com/) into this project and the reason for that is **1)** I wanted to try and learn a different styling technology  **2)** Material UI is easy to use and made my job easier.
 
-**Features**
+**Features** <br/>
+1- The ability to search for a video similar to YouTube. <br/>
+2- The ability to play any video.  <br/>
+3- The ability to find any YouTube channel and access that channel to see the related videos. <br/>
 
 # Tech Stack
+- React <br/>
+- Rapid API: This website contains tons of useful APIs from sports APIs to scientific ApIs you name it, it is there. <br/>
+- Material UI: Very flexible library for styling. One of the cool features that I loved about this library is that you can set styles for different devices using easy built in tags and useful pre-styled built in components to use them anywhere in your app.
 
 
 
