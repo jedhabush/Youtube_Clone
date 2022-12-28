@@ -1,5 +1,19 @@
 # Youtube Clone
 
+# Live Version 
+https://youtube-clone-v3-rapid-api.netlify.app
+
+# Image of application
+
+# Description
+
+**Features**
+
+# Tech Stack
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
