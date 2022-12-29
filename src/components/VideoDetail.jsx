@@ -65,7 +65,8 @@ const VideoDetail = () => {
                   {parseInt(viewCount).toLocaleString()} views
                 </Typography>
                 <Typography variant="body1" sx={{ opacity: 0.7 }}>
-                  {parseInt(likeCount).toLocaleString()} likes
+                  {likeCount ? parseInt(likeCount).toLocaleString() : "unknown"}{" "}
+                  likes
                 </Typography>
               </Stack>
             </Stack>
